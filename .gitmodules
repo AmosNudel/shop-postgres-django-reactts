@@ -1,0 +1,3 @@
+[submodule "frontend/my-shop"]
+	path = frontend/my-shop
+	url = https://github.com/AmosNudel/shop-postgres-django-reactts
